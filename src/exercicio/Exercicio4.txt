@@ -1,0 +1,10 @@
+
+Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+Depois de um tempo, desligue o primeiro interruptor e ligue o segundo interruptor.
+Entre na sala.
+
+
+Se uma lâmpada estiver acesa, ela está conectada ao interruptor que foi ligado pela segunda vez e não foi desligado.
+Se uma lâmpada estiver desligada e fria, ela está conectada ao interruptor que nunca foi ligado.
+Se uma lâmpada estiver desligada e quente, isso significa que ela estava acesa quando você ligou o segundo interruptor.
+Portanto, ela está conectada ao interruptor que você acabou de desligar.
